@@ -1,0 +1,9 @@
+{
+  "name": "محلل المشاعر الذكي",
+  "description": "تطبيق متطور لتحليل المشاعر في النصوص العربية باستخدام الذكاء الاصطناعي، مع اقتراحات ردود ذكية وواجهة مستخدم عصرية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI_TEXT_ANALYSIS",
+    "SMART_REPLIES"
+  ]
+}

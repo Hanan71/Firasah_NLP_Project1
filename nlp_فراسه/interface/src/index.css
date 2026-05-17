@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "IBM Plex Sans Arabic", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-positive: #10b981; /* Vivid Mint */
+  --color-negative: #f43f5e; /* Vivid Rose */
+  --color-neutral: #64748b;  /* Slate */
+  --color-brand: #3b82f6;    /* Sky Blue */
+  --color-accent: #8b5cf6;   /* Purple Glow */
+}
+
+@layer base {
+  body {
+    @apply bg-white text-slate-900 font-sans;
+    direction: rtl;
+  }
+}
+
+.glass {
+  @apply bg-white/60 backdrop-blur-3xl border border-white/40 shadow-2xl;
+}
