@@ -1,2 +1,31 @@
-# Firasah_NLP_Project1
-The "Farasa" project is an integrated web that aims to analyze sentiment in Arabic texts using natural language processing (NLP) and machine learning techniques. The project features an interactive user interface that classifies texts and provides smart suggested responses supported by artificial intelligence.
+# مشروع فراسة (Firasah) - تحليل المشاعر في النصوص العربية
+
+## نبذة عن المشروع
+مشروع "فراسة" هو ويب متكامل يهدف إلى تحليل المشاعر في النصوص العربية باستخدام تقنيات معالجة اللغات الطبيعية (NLP) وتعلم الآلة. يتميز المشروع بواجهة مستخدم تفاعلية تقوم بتصنيف النصوص وتقديم ردود مقترحة ذكية مدعومة بالذكاء الاصطناعي.
+
+تم نشر (Deploy) هذا المشروع ليكون متاحاً للاستخدام المباشر.
+
+## هيكل المشروع
+
+ينقسم المشروع إلى جزأين رئيسيين:
+
+### 1. مجلد `Data` (البيانات وتدريب النماذج)
+يحتوي هذا المجلد على جميع العمليات المتعلقة بعلوم البيانات، والتي تشمل:
+- **جمع البيانات**: تجميع البيانات من المصادر المختلفة.
+- **تنظيف ومعالجة البيانات (Data Cleaning & Preprocessing)**: تجهيز النصوص العربية للتدريب (مثل إزالة التشكيل، الروابط، التكرار، وغيرها).
+- **بناء وتجربة النماذج (Modeling)**: تدريب واختبار عدة نماذج لتحليل المشاعر واختيار النموذج ذو الأداء الأفضل.
+
+### 2. مجلد `interface` (واجهة المستخدم وتكامل النظام)
+يحتوي هذا المجلد على الكود البرمجي الخاص بتطبيق الويب (الموقع)، والذي يمثل الواجهة التفاعلية للمشروع. ويشمل:
+- **الربط مع نموذج التحليل (Sentiment Model)**: تم ربط الواجهة بالنموذج الذي تم تدريبه لتحليل مشاعر النصوص المُدخلة بشكل فوري.
+- **الربط مع نموذج Gemini**: تم دمج واجهة برمجة تطبيقات Gemini لإنشاء وتقديم ردود مقترحة وذكية بناءً على النصوص.
+
+## مصادر البيانات (Datasets)
+تم الاعتماد على عدة مجموعات بيانات موثوقة لتدريب وبناء نموذج تحليل المشاعر الخاص بالمشروع، وهي:
+
+1. **ArSarcasm-v2**:
+   - [رابط المستودع على GitHub](https://github.com/iabufarha/ArSarcasm-v2)
+2. **Arabic Sentiment Analysis Dataset (SS2030)**:
+   - [رابط مجموعة البيانات على Kaggle](https://www.kaggle.com/datasets/snalyami3/arabic-sentiment-analysis-dataset-ss2030-dataset)
+3. **Arabic Sentiment Twitter Corpus**:
+   - [رابط مجموعة البيانات على Kaggle](https://www.kaggle.com/datasets/mksaad/arabic-sentiment-twitter-corpus)
