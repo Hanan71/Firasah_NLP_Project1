@@ -47,5 +47,4 @@ The sentiment analysis model was trained and evaluated on well-established Arabi
 | <img src="https://github.com/user-attachments/assets/02ff0faf-a1f4-4d30-80ff-4a2ac588bdeb" width="300"/> | <img src="https://github.com/user-attachments/assets/e03aa7e9-ce7e-4b69-ac86-4a460d22d466" width="300"/> | <img src="https://github.com/user-attachments/assets/2af4539c-c39c-4fa5-aa63-91c3c9556167" width="300"/> |
 
 ---
-   
-[![Canva Presentation](https://img.shields.io/badge/Canva_Presentation-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/f2wv4fgelp1jghr)
+   [![Canva Presentation](https://img.shields.io/badge/Canva_Presentation-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/f2wv4fgelp1jghr) 👈 Click to view the presentation on Canva
