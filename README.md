@@ -2,9 +2,11 @@
 
 ## Project Overview
 **Firasah** is an end-to-end web application designed for Arabic text sentiment analysis using Natural Language Processing (NLP) and Machine Learning techniques. The platform features an interactive user interface that classifies sentiment and generates smart AI-powered response suggestions.
+---
 
-👥 Developed by the Firasah Team
-**👩‍💻 My Role:** Responsible for dataset sourcing, integrating trained AI models into the web application, and managing the live deployment.
+> 👥 **Developed by the Firasah Team**  
+> **👩‍💻 My Role:** Responsible for dataset sourcing, integrating trained AI models into the web application, and managing live deployment.
+
 ---
 > **Link:** [https://mhll-almshaer-aldhky.vercel.app/](https://mhll-almshaer-aldhky.vercel.app/)  
 > **Note on AI Features:** We utilized custom-trained ML models along with the Gemini API for smart suggestions.
