@@ -7,7 +7,6 @@
 > **Note on AI Features:** We utilized custom-trained ML models along with the Gemini API for smart suggestions.
 >  (If the AI suggestions do not load, it means the API key has expired or reached its quota limit) 😂
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-0070f3?style=for-the-badge&logo=vercel&labelColor=0a192f)](https://mhll-almshaer-aldhky.vercel.app/)
 ---
 
 ## Project Structure
@@ -46,4 +45,7 @@ The sentiment analysis model was trained and evaluated on well-established Arabi
 | <img src="https://github.com/user-attachments/assets/02ff0faf-a1f4-4d30-80ff-4a2ac588bdeb" width="300"/> | <img src="https://github.com/user-attachments/assets/e03aa7e9-ce7e-4b69-ac86-4a460d22d466" width="300"/> | <img src="https://github.com/user-attachments/assets/2af4539c-c39c-4fa5-aa63-91c3c9556167" width="300"/> |
 
 ---
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-0070f3?style=for-the-badge&logo=vercel&labelColor=0a192f)](https://mhll-almshaer-aldhky.vercel.app/) 👈 Click to view the Live Demo on Vercel
+
    [![Canva Presentation](https://img.shields.io/badge/Canva_Presentation-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/f2wv4fgelp1jghr) 👈 Click to view the presentation on Canva
