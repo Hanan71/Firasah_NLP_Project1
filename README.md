@@ -42,13 +42,9 @@ The sentiment analysis model was trained and evaluated on well-established Arabi
 
 ## 📸 Project Screenshots
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/02ff0faf-a1f4-4d30-80ff-4a2ac588bdeb" width="70%" />
-  <br><br>
-  <img src="https://github.com/user-attachments/assets/e03aa7e9-ce7e-4b69-ac86-4a460d22d466" width="70%" />
-  <br><br>
-  <img src="https://github.com/user-attachments/assets/2af4539c-c39c-4fa5-aa63-91c3c9556167" width="70%" />
-</p>
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/02ff0faf-a1f4-4d30-80ff-4a2ac588bdeb" width="300"/> | <img src="https://github.com/user-attachments/assets/e03aa7e9-ce7e-4b69-ac86-4a460d22d466" width="300"/> | <img src="https://github.com/user-attachments/assets/2af4539c-c39c-4fa5-aa63-91c3c9556167" width="300"/> |
 
 ---
    
