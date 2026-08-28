@@ -1,13 +1,13 @@
 # Firasah Project - Arabic Sentiment Analysis
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://mhll-almshaer-aldhky.vercel.app/)
-[![Canva Presentation](https://img.shields.io/badge/Canva_Presentation-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/f2wv4fgelp1jghr)
 
 ## Project Overview
 **Firasah** is an end-to-end web application designed for Arabic text sentiment analysis using Natural Language Processing (NLP) and Machine Learning techniques. The platform features an interactive user interface that classifies sentiment and generates smart AI-powered response suggestions.
 
 > **Live Demo:** [https://mhll-almshaer-aldhky.vercel.app/](https://mhll-almshaer-aldhky.vercel.app/)  
-> **Note on AI Features:** We utilized custom-trained ML models along with the Gemini API for smart suggestions 😂 (If the AI suggestions do not load, it means the API key has expired or reached its quota limit).
+> **Note on AI Features:** We utilized custom-trained ML models along with the Gemini API for smart suggestions.
+>  (If the AI suggestions do not load, it means the API key has expired or reached its quota limit) 😂
 
 ---
 
@@ -37,3 +37,17 @@ The sentiment analysis model was trained and evaluated on well-established Arabi
    - [Kaggle Dataset](https://www.kaggle.com/datasets/snalyami3/arabic-sentiment-analysis-dataset-ss2030-dataset)
 3. **Arabic Sentiment Twitter Corpus**:
    - [Kaggle Dataset](https://www.kaggle.com/datasets/mksaad/arabic-sentiment-twitter-corpus)
+
+---
+
+<details>
+  <summary>🔍 <b>Click to preview app screenshots</b></summary>
+  <br>
+  <img src="https://github.com/user-attachments/assets/02ff0faf-a1f4-4d30-80ff-4a2ac588bdeb" width="600" />
+  <img src="https://github.com/user-attachments/assets/e03aa7e9-ce7e-4b69-ac86-4a460d22d466" width="600" />
+  <img src="https://github.com/user-attachments/assets/2af4539c-c39c-4fa5-aa63-91c3c9556167" width="600" />
+</details>
+
+
+   
+[![Canva Presentation](https://img.shields.io/badge/Canva_Presentation-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/f2wv4fgelp1jghr)
