@@ -1,14 +1,13 @@
 # Firasah Project - Arabic Sentiment Analysis
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://mhll-almshaer-aldhky.vercel.app/)
-
 ## Project Overview
 **Firasah** is an end-to-end web application designed for Arabic text sentiment analysis using Natural Language Processing (NLP) and Machine Learning techniques. The platform features an interactive user interface that classifies sentiment and generates smart AI-powered response suggestions.
 
-> **Live Demo:** [https://mhll-almshaer-aldhky.vercel.app/](https://mhll-almshaer-aldhky.vercel.app/)  
+> **Link:** [https://mhll-almshaer-aldhky.vercel.app/](https://mhll-almshaer-aldhky.vercel.app/)  
 > **Note on AI Features:** We utilized custom-trained ML models along with the Gemini API for smart suggestions.
 >  (If the AI suggestions do not load, it means the API key has expired or reached its quota limit) 😂
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-0070f3?style=for-the-badge&logo=vercel&labelColor=0a192f)](https://mhll-almshaer-aldhky.vercel.app/)
 ---
 
 ## Project Structure
